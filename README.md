@@ -1,2 +1,2 @@
 # FoodsConnected
-Foods Connected Interview assesment application
+Foods Connected Interview assessment application
